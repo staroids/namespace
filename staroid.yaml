@@ -1,0 +1,3 @@
+apiVersion: beta/v1
+starRank:
+  rate: 1.0
