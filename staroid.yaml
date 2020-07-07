@@ -1,3 +1,6 @@
 apiVersion: beta/v1
 starRank:
   rate: 1.0
+ingress:
+  - serviceName: staroid-service
+    port: 8080
