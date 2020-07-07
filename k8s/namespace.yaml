@@ -1,0 +1,6 @@
+# This is just an empty resource to make skaffold run.
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: staroid-namespace
+data:
